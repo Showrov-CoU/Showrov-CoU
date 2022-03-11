@@ -5,7 +5,7 @@ subtitle: A small coder with big dreams
 full-width: true
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+MD.+Rakibul+Islam!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Ashikur+Rahman!!!!)](https://git.io/typing-svg)
 
 Who am I?
 - A competitive programmer since 2017
