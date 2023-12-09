@@ -1,3 +1,5 @@
+<img src="./images/Banner.gif"/>
+
 <h2 align="center">Hi 👋, I'm Md. Ashikur Rahman</h2>
 <h3 align="center">MERN Stack Developer</h3>
 
@@ -6,7 +8,7 @@
 
 - 🔭 I’m currently a student studying MSc in **Comilla University**
 
-- 🌱 I’m exploring **Web Development**
+- 🌱 Exploring the depths of **Express and   MongoDB** to sharpen my skills in building dynamic and scalable web applications.
 
 - 📈 Aspiring to become a **Senior Full Stack Web Developer** within the next **three years.**
 
