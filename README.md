@@ -1,4 +1,4 @@
-<img src="./images/Banner.gif"/>
+<img src="./images/full-stack-development.gif"/>
 
 <h2 align="center">Hi 👋, I'm Md. Ashikur Rahman</h2>
 <h3 align="center">MERN Stack Developer</h3>
