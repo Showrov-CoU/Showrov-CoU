@@ -48,12 +48,11 @@
  </p>
 
 <h2 align="left">Top Coding Languages</h2>
-<!-- <p align="center" style:"bg-color: #1a1b27;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrov-cou&show_icons=true&locale=en&layout=compact" alt="showrov-cou" /></p> -->
 <p align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showrov-CoU&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Showrov-CoU&theme=tokyonight&layout=compact&hide_border=true" alt="showrov-cou" />
 </p>
 
-
 <h2 align="left">Current Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Showrov-CoU&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center" href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Showrov-CoU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
