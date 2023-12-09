@@ -1,15 +1,14 @@
 <p align="center">
- <img src="./images/Banner.gif"/>
+ <img src="./images/Purple Gradient Consistency Success Motivational Word Banner.gif"/>
 </p>
 
-<h3 align="center" >Hi 👋, I'm Md. Ashikur Rahman
+<!-- <h3 align="center" >Hi 👋, I'm Md. Ashikur Rahman
 </h3>
-
 
 <p align="center">
 <font size="3">MERN Stack Developer
 </font>
-</p>
+</p> -->
 
 <!-- <h1 align="center">
 Hi 👋, I'm Md. Ashikur Rahman
