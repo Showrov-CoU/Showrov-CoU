@@ -1,10 +1,14 @@
 <p align="center">
- <img src="./images/full-stack-development.gif"/>
+ <img src="./images/Banner.gif"/>
 </p>
-<p style="font-size:25px" align="center">Hi 👋, I'm Md. Ashikur Rahman
+<p style="font-size:35px;" align="center">Hi 👋, I'm Md. Ashikur Rahman
 </p>
 <p style="font-size:15px" align="center">MERN Stack Developer</p>
 
+<!-- <h1 align="center">
+Hi 👋, I'm Md. Ashikur Rahman
+<p style="text-size:10px">MERN Stack Developer</p>
+</h1> -->
 
 <h2 align="left">Current Overview</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=showrov-cou&label=Profile%20views&color=0e75b6&style=flat" alt="showrov-cou" /> </p>
