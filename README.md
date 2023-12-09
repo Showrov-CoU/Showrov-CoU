@@ -1,10 +1,10 @@
 <p align="center">
  <img src="./images/Banner.gif"/>
 </p>
-<p align="center">
-<font size="6">Hi 👋, I'm Md. Ashikur Rahman
-</font>
-</p>
+
+<h3 align="center" >Hi 👋, I'm Md. Ashikur Rahman
+</h3>
+
 
 <p align="center">
 <font size="3">MERN Stack Developer
