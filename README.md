@@ -1,9 +1,15 @@
 <p align="center">
  <img src="./images/Banner.gif"/>
 </p>
-<p style="font-size:35px;" align="center">Hi 👋, I'm Md. Ashikur Rahman
+<p align="center">
+<font size="6">Hi 👋, I'm Md. Ashikur Rahman
+</font>
 </p>
-<p style="font-size:15px" align="center">MERN Stack Developer</p>
+
+<p align="center">
+<font size="3">MERN Stack Developer
+</font>
+</p>
 
 <!-- <h1 align="center">
 Hi 👋, I'm Md. Ashikur Rahman
