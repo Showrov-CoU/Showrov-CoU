@@ -11,18 +11,18 @@
 
 - 📫 How to reach me **ashikur.cse.cou@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/@showrov308_cou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@showrov308_cou" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashikur-rahman-showrov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. ashikur rahman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008285349391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="আশিকুর রহমান সৌরভ" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/showrov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="showrov" height="30" width="40" /></a>
+<a style="padding:5px" href="https://www.linkedin.com/in/ashikur-rahman-showrov/" target="blank"><img align="center" src="./images/icons8-linkedin.svg" alt="md. ashikur rahman" height="40" width="40"</a>
+<a style="padding:5px" href="https://www.facebook.com/profile.php?id=100008285349391" target="blank"><img align="center" src="./images/icons8-facebook.svg" alt="আশিকুর রহমান সৌরভ" height="40" width="40" /></a>
+<a style="padding:5px" href="https://codeforces.com/profile/showrov" target="blank"><img align="center" src="./images/icons8-codeforces.-programming-competitions-and-contests,-programming-community.-48.png" alt="showrov" height="40" width="40" /></a>
+<a style="padding:5px" href="https://codeforces.com/profile/showrov" target="blank"><img align="center" src="./images/icons8-level-up-your-coding-skills-and-quickly-land-a-job-48.png" alt="showrov" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
 <!-- 1st -->
 <p align="center" style="padding:5px">
-<a style="padding:0px" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./images//icons8-html5.svg" alt="html5" width="40" height="40"/>
+<a style="padding:0px" href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="./images//icons8-html5.svg" alt="html5" width="40" height="40"/>
 </a>
 <a style="padding:5px" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./images/icons8-css3.svg" alt="css3" width="40" height="40"/> </a>
 <a style="padding:5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./images/icons8-javascript.svg" alt="javascript" width="40" height="40"/> </a>
